@@ -16,7 +16,7 @@ class TableEvents extends Component{
                     title: 'Checked',
                     field: 'checked',
                     lookup: { 0: 'no visto', 1: 'visto' }},
-                { title: 'Timestamp', field: 'timestamp' },
+                { title: 'Timestamp', field: 'timestamp', editable: false },
             ],
             data:[]
         }
@@ -26,7 +26,6 @@ class TableEvents extends Component{
         this.setState({data:events})
     }
     render() {
-        const { classes } = this.props;
         return(
             <Fragment>
                     <MaterialTable
@@ -45,7 +44,7 @@ class TableEvents extends Component{
                                                     data[data.indexOf(oldData)] = newData;
                                                     return { ...prevState, data };
                                                 });
-                                                this.props.updateViewed(parseInt(newData.checked));                                            }
+                                                this.props.updateViewed(parseInt(newData.checked));                                           }
 
                                         }, 600);
                                     }),
