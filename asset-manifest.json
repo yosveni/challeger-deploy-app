@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/challeger-deploy-app/static/css/main.3d7c48f5.chunk.css",
+    "main.js": "/challeger-deploy-app/static/js/main.578fcaa4.chunk.js",
+    "main.js.map": "/challeger-deploy-app/static/js/main.578fcaa4.chunk.js.map",
+    "runtime-main.js": "/challeger-deploy-app/static/js/runtime-main.76341bce.js",
+    "runtime-main.js.map": "/challeger-deploy-app/static/js/runtime-main.76341bce.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/challeger-deploy-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9525abcf.chunk.js": "/challeger-deploy-app/static/js/2.9525abcf.chunk.js",
+    "static/js/2.9525abcf.chunk.js.map": "/challeger-deploy-app/static/js/2.9525abcf.chunk.js.map",
+    "index.html": "/challeger-deploy-app/index.html",
+    "precache-manifest.daecc3b97d6d95ee890db44d84f1b4f4.js": "/challeger-deploy-app/precache-manifest.daecc3b97d6d95ee890db44d84f1b4f4.js",
+    "service-worker.js": "/challeger-deploy-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/challeger-deploy-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3d7c48f5.chunk.css.map": "/challeger-deploy-app/static/css/main.3d7c48f5.chunk.css.map",
+    "static/js/2.9525abcf.chunk.js.LICENSE.txt": "/challeger-deploy-app/static/js/2.9525abcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76341bce.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9525abcf.chunk.js",
+    "static/css/main.3d7c48f5.chunk.css",
+    "static/js/main.578fcaa4.chunk.js"
+  ]
+}
